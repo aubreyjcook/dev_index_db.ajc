@@ -1,3 +1,3 @@
 # dev_index_db.ajc
 
-Technology-agnositic environment for indexing implementations of Database solutions.
+Technology-agnostic environment for indexing implementations of Database solutions.
